@@ -1,0 +1,50 @@
+{
+  "name": "react-datetime-playground",
+  "version": "0.0.1",
+  "description": "Demo react project ready for start collaborating with react-datetime.",
+  "scripts": {
+    "start": "node server.js",
+    "lint": "eslint src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arqex/react-datetime-playground"
+  },
+  "keywords": [
+    "react",
+    "reactjs",
+    "boilerplate",
+    "hot",
+    "reload",
+    "hmr",
+    "live",
+    "edit",
+    "webpack"
+  ],
+  "author": "Javier Marquez <javi@arqex.com> (http://github.com/arqex)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arqex/react-datetime-playground/issues"
+  },
+  "homepage": "https://github.com/arqex/react-datetime-playground",
+  "devDependencies": {
+    "babel-core": "^6.0.20",
+    "babel-eslint": "^4.1.3",
+    "babel-loader": "^6.0.1",
+    "babel-preset-es2015": "^6.0.15",
+    "babel-preset-react": "^6.0.15",
+    "babel-preset-stage-0": "^6.0.15",
+    "eslint": "^1.10.3",
+    "eslint-plugin-react": "^3.6.2",
+    "react-hot-loader": "^1.3.0",
+    "webpack": "^1.12.2",
+    "webpack-dev-server": "^1.12.1",
+    "css-loader": "^0.24.0",
+    "style-loader": "^0.13.1"
+  },
+  "dependencies": {
+    "moment": "^2.14.1",
+    "react": "^0.14.6",
+    "react-dom": "^0.14.6"
+  }
+}

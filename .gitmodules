@@ -1,0 +1,3 @@
+[submodule "react-datetime"]
+    path = src/react-datetime
+    url = git@github.com:YouCanBookMe/react-datetime.git
